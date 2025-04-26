@@ -1,5 +1,5 @@
 import axios from 'axios';
-const APIKEY="aa5b854";
+const APIKEY="aa5b8544";
 const URL="http://www.omdbapi.com/";
 
 export async function buscarPorTitulo(titulo){
